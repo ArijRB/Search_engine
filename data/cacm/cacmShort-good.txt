@@ -1,0 +1,253 @@
+.I 1
+.T
+Preliminary Report-International Algebraic Language
+jgkfldjgfkld
+.B
+CACM December, 1958
+.A
+Perlis, A. J.
+Samelson,K.
+.N
+CA581203 JB March 22, 1978  8:28 PM
+.X
+100	5	1
+123	5	1
+164	5	1
+1	5	1
+1	5	1
+1	5	1
+205	5	1
+210	5	1
+214	5	1
+1982	5	1
+398	5	1
+642	5	1
+669	5	1
+1	6	1
+1	6	1
+1	6	1
+1	6	1
+1	6	1
+1	6	1
+1	6	1
+1	6	1
+1	6	1
+1	6	1
+165	6	1
+196	6	1
+196	6	1
+1273	6	1
+1883	6	1
+324	6	1
+43	6	1
+53	6	1
+91	6	1
+410	6	1
+3184	6	1
+
+.I 2
+.T
+Extraction of Roots by Repeated Subtractions for Digital Computers
+.B
+CACM December, 1958
+.A
+Sugai, I.
+.N
+CA581202 JB March 22, 1978  8:29 PM
+.X
+2	5	2
+2	5	2
+2	5	2
+
+.I 3
+.T
+Techniques Department on Matrix Program Schemes
+.B
+CACM December, 1958
+.A
+Friedman, M. D.
+.N
+CA581201 JB March 22, 1978  8:30 PM
+.X
+3	5	3
+1	5	3
+3	5	3
+
+.I 4
+.T
+Glossary of Computer Engineering and Programming Terminology
+.B
+CACM November, 1958
+.N
+CA581103 JB March 22, 1978  8:32 PM
+.X
+4	5	4
+1	5	4
+4	5	4
+
+.I 5
+.T
+Two Square-Root Approximations
+.B
+CACM November, 1958
+.A
+Wadey, W. G.
+.N
+CA581102 JB March 22, 1978  8:33 PM
+.X
+5	5	5
+5	5	5
+5	5	5
+
+.I 6
+.T
+The Use of Computers in Inspection Procedures
+.B
+CACM November, 1958
+.A
+Muller, M. E.
+.N
+CA581101 JB March 22, 1978  8:33 PM
+.X
+6	5	6
+6	5	6
+6	5	6
+477	5	6
+6	6	6
+
+.I 7
+.T
+Glossary of Computer Engineering and Programming Terminology
+.B
+CACM October, 1958
+.N
+CA581003 JB March 22, 1978  8:35 PM
+.X
+7	5	7
+7	5	7
+7	5	7
+
+.I 8
+.T
+On The Equivalence and Transformation of Program Schemes
+.B
+CACM October, 1958
+.A
+Friedman, M. D.
+.N
+CA581002 JB March 22, 1978  8:36 PM
+.X
+8	5	8
+8	5	8
+8	5	8
+
+.I 9
+.T
+Proposal for an UNCOL
+.B
+CACM October, 1958
+.A
+Conway, M. E.
+.N
+CA581001 JB March 22, 1978  8:37 PM
+.X
+9	5	9
+9	5	9
+9	5	9
+
+.I 10
+.T
+Glossary of Computer Engineering and Programming Terminology
+.B
+CACM September, 1958
+.N
+CA580903 JB March 22, 1978  8:39 PM
+.X
+10	5	10
+10	5	10
+10	5	10
+
+.I 11
+.T
+The Problem of Programming Communication with
+Changing Machines A Proposed Solution-Part 2
+.B
+CACM September, 1958
+.A
+Strong, J.
+Wegstein, J.
+Tritter, A.
+Olsztyn, J.
+Mock, O.
+Steel, T.
+.N
+CA580902 JB March 22, 1978  8:41 PM
+.X
+1781	5	11
+1988	5	11
+11	5	11
+11	5	11
+11	5	11
+123	6	11
+196	6	11
+919	6	11
+990	6	11
+1007	6	11
+1046	6	11
+1131	6	11
+1139	6	11
+1140	6	11
+1149	6	11
+1198	6	11
+1215	6	11
+1223	6	11
+1265	6	11
+1303	6	11
+1323	6	11
+1358	6	11
+1366	6	11
+1421	6	11
+1460	6	11
+1462	6	11
+1463	6	11
+1467	6	11
+1468	6	11
+1477	6	11
+1491	6	11
+1496	6	11
+1496	6	11
+1531	6	11
+1535	6	11
+1565	6	11
+1601	6	11
+1602	6	11
+1613	6	11
+1614	6	11
+1626	6	11
+1641	6	11
+1787	6	11
+1788	6	11
+205	6	11
+224	6	11
+249	6	11
+288	6	11
+316	6	11
+381	6	11
+381	6	11
+398	6	11
+11	6	11
+11	6	11
+14	6	11
+404	6	11
+410	6	11
+463	6	11
+464	6	11
+483	6	11
+3184	6	11
+3188	6	11
+584	6	11
+600	6	11
+680	6	11
+691	6	11
+799	6	11
+763	6	11

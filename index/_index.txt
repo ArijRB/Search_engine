@@ -1,0 +1,4 @@
+{'1': {'forecast': 1, 'sale': 1, 'home': 1}}
+{'2': {'rise': 1, 'juli': 1, 'sale': 1, 'home': 1}}
+{'3': {'increas': 1, 'sale': 1, 'juli': 1, 'home': 1}}
+{'4': {'rise': 1, 'juli': 1, 'sale': 1, 'encount': 1, 'home': 1}}
